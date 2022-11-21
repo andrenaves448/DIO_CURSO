@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Instagram</title>
+</head>
+<body>
+    <div class="instagram-wrapper">
+        <div class="instagram-phone">
+            <video src="./imagens/img/SelularTeste.mp4" autoplay loop></video>
+        </div>
+        <div class="instagram-continue">
+            <div class="group">
+                <img src="./imagens/img/instagram-logo.png" class= "instagram-logo" alt="instagram logo">
+                <div class="profile-photo">
+                    <img src="./imagens/img/perfil-instagram2.jpg" alt="foto de perfil">
+                </div>
+                <a href="#" class="instagram-login">Continue como andre_naves2</a>
+                <a href="#" class="instagram-logout"></a>
+                <p class="not-account">Não é andre_naves2?<span class="link-blue">Alternar  conta</span></p>
+            </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
